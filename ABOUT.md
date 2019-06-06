@@ -10,5 +10,13 @@
                 choose option
                 1.) Push
 2. Start with html
+    Html can be run in any web browser
+        predefines tags -->W3schools
+        with some attributes -->W3schools
+        events -->W3schools 
+        a specific format
+        whats new fetures in html5
+            <header>,<footer>,<aside>,<nav>
+
 3. Css
 4. Bootstrap
